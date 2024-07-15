@@ -60,14 +60,14 @@ Créer une plateforme d'apprentissage en ligne permettant aux utilisateurs de s'
 
 ### Guide de lancement du project :
 1. Installation des prerequis : 
-    `composer install`
+    - `composer install`
 2. Creation de la base de donnèes:
-    `symfony console d:d:c`
+    - `symfony console d:d:c`
 3. Migration :
-    `symfony console m:m`
-    `symfony console d:m:m`        
+    - `symfony console m:m`
+    - `symfony console d:m:m`        
 4. Run Project : 
-    `symfony server:start`    
+    - `symfony server:start`    
 
 > [!NOTE]
 > If you don't have symfony cli : change commande `symfony console` by `php bin/console`
