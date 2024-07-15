@@ -50,7 +50,7 @@ Créer une plateforme d'apprentissage en ligne permettant aux utilisateurs de s'
 ### Requirements : 
 
 | Tech | Requirements | 
-| :----: | :------------: |
+| :---- | :------------: |
 | OS | Linux (Debien recommandé), macOS, ou Windows |
 | Server Web | Apache ou Nginx |
 | PHP | PHP 8.1 ou supérieur (Symfony **7** requiert PHP **8.1+**) |
