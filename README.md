@@ -49,11 +49,11 @@ Créer une plateforme d'apprentissage en ligne permettant aux utilisateurs de s'
 ## 3. Guide d'installation : 
 ### Requirements : 
     | Tech | Requirements | 
-    | --- | --- |
+    | :----: | :------------: |
     | OS | Linux (Debien recommandé), macOS, ou Windows |
     | Server Web | Apache ou Nginx |
-    | PHP | PHP 8.1 ou supérieur (Symfony 7 requiert PHP 8.1+) |
-    | Database | SQLite 3.20+ |
+    | PHP | PHP 8.1 ou supérieur (Symfony **7** requiert PHP **8.1+**) |
+    | Database | SQLite **3.20+** |
     | Gestionnaire de Packages | Composer |
     | Outils de Développement | Git(optionel) |
 
